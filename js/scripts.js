@@ -6,18 +6,21 @@ function mytriangle(){
                ];
                
      
-     var partsum=parseInt(part[0])+parseInt(part[1]);
-    if (part[0]==part[1]&& part[1]==part[2])
+    
+     if(part[0]+part[1]>part[2]&& part[0]+part[2]>part[1]&& part[1]+part[2]>part[0])
+     {
+    if (part[0]===part[1]&& part[1]===part[2] &&part[1]===part[2])
     {
     console.log("this triangle is equilateral");
     }
-    else if (part[0]==part[1]||part[1]==part[2]||part[0]==part[2])
+    else if (part[0]===part[1]||part[1]===part[2]||part[0]===part[2])
     {
     console.log("this triangle is isosceles");
     }
-    else if (partsum>part[2]) 
+    else 
     {
     console.log("this triangle is scalene");
+    }
     }
     else 
     {
