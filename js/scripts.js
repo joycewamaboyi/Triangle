@@ -19,3 +19,6 @@ function mytriangle(){
     {
     console.log("this triangle is scalene");
     }
+    else 
+    {
+    console.log("Not a triangle");
