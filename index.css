@@ -41,3 +41,9 @@ text-align: justify;
 ul,li{
     letter-spacing: 0em;
 }
+footer{
+    text-align: center;
+    text-emphasis: none;
+    font-style: italic;
+
+}
