@@ -17,4 +17,5 @@ visual Studio Code
 ### Linkedin: Joyce Tuyishime
 ### License and Copyright information
     Copyright &copy; 2018 by Joyce
+### link which can help you to see how it working :https://github.com/joycewamaboyi/Triangle
 
