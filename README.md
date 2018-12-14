@@ -8,4 +8,13 @@ Moringa School
 ### Project Instruction
 you must have Javascript VS code and Browser
 ### Technologies used
+Javascript 
+visual Studio Code
+## Contact information
+### tuyjoy92@yahoo.fr
+### +250789494411
+### twitter: joycewamaboyi
+### Linkedin: Joyce Tuyishime
+### License and Copyright information
+    Copyright &copy; 2018 by Joyce
 
