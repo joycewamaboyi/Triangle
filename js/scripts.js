@@ -6,4 +6,7 @@ function mytriangle(){
                ];
                
      
-     
+     var partsum=parseInt(part[0])+parseInt(part[1]);
+    if (part[0]==part[1]&& part[1]==part[2])
+    {
+    
