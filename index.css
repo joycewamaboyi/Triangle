@@ -4,7 +4,37 @@ main{
 .one{
     text-align: center;
 }
-#two{
-    padding: 1%;
-    
+.un{
+    padding: 10px;
+    margin: 15px;
+}
+.deux{
+    padding: 10px;
+    margin: 15px;
+}
+.trois{
+    padding: 10px;
+    margin: 15px;
+}
+.four{
+  
+    height: 30px;
+    width: 15%; 
+}
+#name{
+text-align: justify;
+    font-size: 17px;
+    flex-direction: column;
+    color: grey;
+    font-style: normal;
+    line-height: 23px;
+    text-rendering: optimizeLegibility;
+    margin-bottom: 17px;
+    display: block;
+    font-family: 'Arial Narrow',Arial, Helvetica, sans-serif;
+    line-height: 1.4em;
+    text-transform: none;
+    letter-spacing: 0em;
+    font-weight: 400;
+    font-style: normal
 }
