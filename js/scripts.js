@@ -16,3 +16,6 @@ function mytriangle(){
     console.log("this triangle is isosceles");
     }
     else if (partsum>part[2]) 
+    {
+    console.log("this triangle is scalene");
+    }
