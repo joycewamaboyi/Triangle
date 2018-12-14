@@ -22,3 +22,5 @@ function mytriangle(){
     else 
     {
     console.log("Not a triangle");
+    }
+    }
