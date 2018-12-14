@@ -13,3 +13,6 @@ function mytriangle(){
     }
     else if (part[0]==part[1]||part[1]==part[2]||part[0]==part[2])
     {
+    console.log("this triangle is isosceles");
+    }
+    else if (partsum>part[2]) 
