@@ -67,3 +67,8 @@ p{
     font-weight: 400;
     font-style: normal;
 }
+#six{
+    text-align: center;
+    text-emphasis: none;
+    font-style: italic;
+}
