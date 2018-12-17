@@ -27,6 +27,11 @@ visual Studio Code
 | when two parts are less than other part it will sat Triangle     | 10,34,90  | Triangle     |
 
 ### USER STORY
+  ...
+  s a user, I want to enter the length values of the three sides of my triangle in the application.
+  ...
+  After submitting my values, the application should tell me what type of triangle my values will produce, whether an isosceles, equilateral, scalene or NO triangle at all.
+  ...
 ## Contact information
 ### tuyjoy92@yahoo.fr
 ### +250789494411
