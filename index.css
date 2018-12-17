@@ -5,16 +5,22 @@ main{
     text-align: center;
 }
 .un{
-    padding: 10px;
-    margin: 15px;
+    padding: 12px 20px ;
+    margin: 8px 0;
+    width: 10%;
+    box-sizing: border-box;
 }
 .deux{
-    padding: 10px;
-    margin: 15px;
+    padding: 12px 20px ;
+    margin: 8px 0;
+    width: 10%;
+    box-sizing: border-box;
 }
 .trois{
-    padding: 10px;
-    margin: 15px;
+    padding: 12px 20px ;
+    margin: 8px 0;
+    width: 10%;
+    box-sizing: border-box;
 }
 .four{
   
@@ -42,7 +48,7 @@ text-align: justify;
 ul,li{
     
     font-style: italic;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial Narrow',Arial, Helvetica, sans-serif;
     letter-spacing: 0em;
     line-height: 1.4em;
     text-transform: none;

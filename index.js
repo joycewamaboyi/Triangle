@@ -11,19 +11,19 @@ function mytriangle(){
      {
     if (part[0]===part[1]&& part[1]===part[2] &&part[1]===part[2])
     {
-    console.log("this triangle is equilateral");
+    alert("this triangle is equilateral");
     }
     else if (part[0]===part[1]||part[1]===part[2]||part[0]===part[2])
     {
-    console.log("this triangle is isosceles");
+    alert("this triangle is isosceles");
     }
     else 
     {
-    console.log("this triangle is scalene");
+    alert("this triangle is scalene");
     }
     }
     else 
     {
-    console.log("Not a triangle");
+    alert("Not a triangle");
     }
     }
