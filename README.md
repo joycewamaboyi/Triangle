@@ -9,16 +9,16 @@ TUYISHIME Joyeuse
 tuyjoy92@yahoo.fr
 Moringa School
 ...
-### Project Instruction
+## Project Instruction
 ...
 you must have Javascript, VS code ,and Browser
 ...
-### Technologies used
+## Technologies used
 ....
 Javascript  and 
 visual Studio Code
 ....
-### BDD
+## BDD
 | Behavior                                                         | Input     |  Output      |
 | :----------------------------------------------------------------| :--------:| -----------: |
 | when i put in 3 equal numbers it will say equilateral            | 10,10,10  | Equilateral  |
@@ -26,7 +26,7 @@ visual Studio Code
 | when i put in 3 different numbers it will say scalene            | 30,40,50  | Scalene      |
 | when two parts are less than other part it will say Triangle     | 10,34,90  | No Triangle     |
 
-### USER STORY
+## USER STORY
   
   a user, I want to enter the length values of the three sides of my triangle in the application.
   ...
@@ -41,7 +41,7 @@ visual Studio Code
 ### +250789494411
 ### twitter: joycewamaboyi
 ### Linkedin: Joyce Tuyishime
-### License and Copyright information
-    ### Copyright &copy; 2018 by Joyce
+## License and Copyright information
+    MTI,Copyright &copy; 2018 by Joyce
 ### link which can help you to see how it working :https://github.com/joycewamaboyi/Triangle
 
