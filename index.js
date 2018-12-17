@@ -9,7 +9,7 @@ function mytriangle(){
     
      if(part[0]+part[1]>part[2]&& part[0]+part[2]>part[1]&& part[1]+part[2]>part[0])
      {
-    if (part[0]===part[1]&& part[1]===part[2] &&part[1]===part[2])
+    if (part[0]===part[1]&& part[1]===part[2] &&part[0]===part[2])
     {
     alert("this triangle is equilateral");
     }

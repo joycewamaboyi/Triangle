@@ -19,6 +19,14 @@ Javascript  and
 visual Studio Code
 ....
 ### BDD
+| Behavior                                                         | Input     |  Output      |
+| :----------------------------------------------------------------| :--------:| -----------: |
+| when i put in 3 equal numbers it will say equilateral            | 10,10,10  | Equilateral  |
+| when i put in 2 equal numbers it will say  isosceles             | 10,10,30  |  Isosceles   |
+| when i put in 3 different numbers it will say scalene            | 10,34,20  | Scalene      |
+| when two parts are less than other part it will sat Triangle     | 10,34,90  | Triangle     |
+
+### USER STORY
 ## Contact information
 ### tuyjoy92@yahoo.fr
 ### +250789494411
